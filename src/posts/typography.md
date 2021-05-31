@@ -1,6 +1,6 @@
 ---
 title: "Typography"
-date: 2020-06-21T08:04
+date: 2021-05-31T08:04
 description: "Typography is art..."
 thumb: "typography.png"
 tags:
