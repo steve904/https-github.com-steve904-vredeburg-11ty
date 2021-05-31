@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Vredeburg',
+  title: 'Blue Sky Blog',
   description: 'Eleventy starter project to create a blog',
   keywords: ['eleventy', 'template', 'simple', 'clean'],
   // your site url without trailing slash
